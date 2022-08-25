@@ -6,4 +6,5 @@ If the owner of a crypto wallet is unknown to the public, then all of their tran
 
 However, if a crypto wallet is associated with a crypto exchange then their transactions are not anonymous to the exchange or any government authorities the exchange deals with.
 
-This means maintaining absolute anonymity is not simple and may require complicating transactions using tools like [Tornado Cash](https://tornado.cash/) or interacting with less reputable crypto exchanges
+This means maintaining absolute anonymity is not simple and may require complicating 
+transactions or interacting with less reputable crypto exchanges.

@@ -1,0 +1,4 @@
+-   [Ethereum Peer to Peer Networking Protocol](https://github.com/ethereum/devp2p)
+-   [Ethereum EVM Illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+-   [Ethereum Contract Input Data Decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
+-   [What Happens When You Send One DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
