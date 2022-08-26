@@ -25,8 +25,8 @@ amount of cryptocurrency that can be transferred between wallets. The below conv
 help to illustrate their meaning:
 -   There are 100 cents within 1 dollar
 -   There are 100 million Satoshis within 1 Bitcoin
--   There is 1 [quintillion](https://en.wikipedia.org/wiki/Power_of_10) Wei in 1 Ether (quintillion means 10<sup>18</sup>
--   There is 1 [billion](https://en.wikipedia.org/wiki/Power_of_10) Gwei in 1 Ether (Gwei means Giga Wei, or 10<sup>9</sup> Wei
+-   There is 1 [quintillion](https://en.wikipedia.org/wiki/Power_of_10) Wei in 1 Ether (quintillion means 10<sup>18</sup>)
+-   There is 1 [billion](https://en.wikipedia.org/wiki/Power_of_10) Gwei in 1 Ether (Gwei means Giga Wei, or 10<sup>9</sup> Wei)
 
 References:
 -   [Github - go-ethereum/core/state_transition/IntrinsicGas](https://github.com/ethereum/go-ethereum/blob/594e32166269eed4f5cb8270bba99fa234a41606/core/state_transition.go#L118)

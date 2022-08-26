@@ -22,4 +22,4 @@ On the Ethereum network, a transaction will include:
     -   Contains the requested method to execute when executing a Smart Contract
 
 References:
-[Ethereum - Transactions](https://ethereum.org/en/developers/docs/transactions/)
+-   [Ethereum - Transactions](https://ethereum.org/en/developers/docs/transactions/)

@@ -1,6 +1,6 @@
 Websites which communicate with a Blockchain are able to:
 -   View transaction information of a user
--   Verify the users ownership of cryptocurrencies or NFT's
+-   Verify the users ownership of cryptocurrencies or NFTs
 -   Perform transactions on behalf of the user
 -   Execute Smart Contracts on behalf of the user
 

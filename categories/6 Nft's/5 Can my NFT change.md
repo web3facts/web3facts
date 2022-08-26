@@ -6,7 +6,7 @@ There are two ways that the image associated to an NFT can change:
 The information related to an NFT, such as the token id and a metadata URI,
 is stored within the memory allocated to an NFT Smart Contract.
 
-Typically, Smart Contracts which manage NFT's do not allow NFT owners to change
+Typically, Smart Contracts which manage NFTs do not allow NFT owners to change
 the metadata URI stored within the contract.
 Though, it is possible to design Smart Contracts which allow for the metadata URI to be changed.
 

@@ -24,5 +24,5 @@ Below is a simple example of NFT metadata.
 In summary, an NFT is a token stored in a Smart Contract which refers to a website link
 (URI) which refers to an image link.
 
-References
+References:
 -   [OpenZeppelin - ERC721](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol#L19)

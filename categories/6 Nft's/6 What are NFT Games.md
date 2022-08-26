@@ -1,4 +1,4 @@
-An NFT game is game which uses NFT's for purposes such as:
+An NFT game is game which uses NFTs for purposes such as:
 -   Managing ownership of in-game items
 -   Managing player avatars
 

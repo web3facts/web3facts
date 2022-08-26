@@ -15,6 +15,7 @@ As a result, the connection between an altered and the next block will
 be broken, damaging the database.
 
 ![Visualization of a Blockchain - IG.com](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/IG-What-is-blockchain-technology-Blocks-with-des.png)
+
 Image: Visualization of a Blockchain - [IG.com](https://www.ig.com/en/trading-strategies/what-is-blockchain-technology--200710).
 
 References:
