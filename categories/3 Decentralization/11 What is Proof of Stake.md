@@ -15,12 +15,17 @@ for validators. These requirements can include:
 
 When a Block of transactions is full, the network selects a validator to the
 re-execute the transactions and validate the Block so it can be added to the
-Blockchain.
+[Blockchain](#WhatIsABlockchain).
 
 The selection process for validators depends on the network, they can be selected
 randomly, or based on the how large their stake is.
 
-References:
+The [Nodes](#WhatIsANode) within the network are responsible for selecting the validators.
+This all [Nodes](#WhatIsANode) must be capable of randomly selecting the same validator.
+One way this is achieved is by having the [Nodes](#WhatIsANode) use the same
+[Random Seed](https://en.wikipedia.org/wiki/Random_seed), such as the hash of the previous Block.
+
+**References**
 -   [Avalanche - What is Staking](https://docs.avax.network/nodes/validate/staking)
 -   [Solana - Validator Requirements](https://docs.solana.com/running-validator/validator-reqs)
 -   [Ethereum - Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)

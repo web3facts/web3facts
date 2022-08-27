@@ -1,3 +1,3 @@
 Web 3.0 is commonly used to refer to:
--   Centralized websites or applications which communicate with a Blockchain
--   [Decentralized Websites](#x) which are hosted on the [Decentralized Web](https://ens.domains/)
+-   [Centralized](#WhatDoesCentralizedMean) websites or applications which communicate with a [Blockchain](#WhatIsABlockchain)
+-   [Decentralized Websites](#WhatAreDecentralizedWebsites) which are hosted on the [Decentralized Web](https://ens.domains/)

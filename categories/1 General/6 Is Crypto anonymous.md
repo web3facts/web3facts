@@ -1,4 +1,4 @@
-All cryptocurrency and NFT transfers are tied to crypto wallets.
+All cryptocurrency and [NFT](#WhatIsAnNFT) transfers are tied to crypto wallets.
 
 These transactions are all publicly available and can be viewed using tools like [blockchain.com](https://blockchain.com) or [etherscan.io](https://etherscan.io).
 

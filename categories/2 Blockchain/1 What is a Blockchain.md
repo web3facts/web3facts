@@ -18,6 +18,6 @@ be broken, damaging the database.
 
 Image: Visualization of a Blockchain - [IG.com](https://www.ig.com/en/trading-strategies/what-is-blockchain-technology--200710).
 
-References:
+**References**
 -   [Binance - Blockchain](https://academy.binance.com/en/glossary/blockchain)
 -   [IG - What is blockchain technology](https://www.ig.com/en/trading-strategies/what-is-blockchain-technology--200710)

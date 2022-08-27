@@ -1,12 +1,12 @@
 A Node is a computer which is running a program specifically designed for
-a cryptocurrencies network. The program communicates with miners and other Nodes on the network
+a cryptocurrencies network. The program communicates with [miners](#WhatIsMining) and other Nodes on the network
 to verify, process and store transactions.
 
 There are several types of Nodes, the most common include:
--   Archive Node - stores the entire Blockchain
--   Full Node - contains a recent portion of the Blockchain
+-   Archive Node - stores the entire [Blockchain](#WhatIsABlockchain)
+-   Full Node - contains a recent portion of the [Blockchain](#WhatIsABlockchain)
 -   Light Node - contains enough information to verify data received from other Nodes
--   Mining Node - a Node which also participates in mining
+-   Mining Node - a Node which also participates in [mining](#WhatIsMining)
 
 There is no direct financial incentive for hosting a Node.
 The main incentive is to avoid placing trust in Nodes hosted by others.
@@ -16,9 +16,9 @@ Nodes are typically hosted by:
 -   Miners
 -   Developers
 -   Community Members / Enthusiasts
--   Centralized services such as Infura, OpenSea, etc
+-   [Centralized](#WhatDoesCentralizedMean) services such as Infura, OpenSea, etc
 
-References:
+**References**
 -   [bitpanda - What is a Bitcoin Node](https://www.bitpanda.com/academy/en/lessons/what-is-a-bitcoin-node/)
 -   [Bitcoin - Running a Full Node?](https://bitcoin.org/en/full-node)
 -   [Ethereum - Nodes and Clients](https://ethereum.org/en/developers/docs/nodes-and-clients/)

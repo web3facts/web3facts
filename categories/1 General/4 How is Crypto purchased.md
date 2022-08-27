@@ -16,5 +16,5 @@ When registering you typically need to provide:
 
 After making an exchange, the cryptocurrency received can be transferred to any crypto wallet.
 
-References:
+**References**
 -   [Create a Coinbase account](https://help.coinbase.com/en/coinbase/getting-started/getting-started-with-coinbase/create-a-coinbase-account)

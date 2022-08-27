@@ -2,10 +2,10 @@ Proof of Work refers to the ability to prove that a particular computer has
 performed a certain number of computations.
 
 In the context of cryptocurrencies, it is used to determine whether a Block of
-transactions should be added to the Blockchain.
+transactions should be added to the [Blockchain](#WhatIsABlockchain).
 
 Each Block contains a set of transactions along with a unique number, called a nonce.
-For a Block to be added to the Blockchain, it's hash must have a particular property.
+For a Block to be added to the [Blockchain](#WhatIsABlockchain), it's hash must have a particular property.
 
 Every miners goal is to find a nonce that gives the Block's hash the desired property.
 
@@ -25,7 +25,7 @@ producing **1 new Block every 13 seconds**.
 
 The large energy costs are due to enormous number of hashes required.
 
-References:
+**References**
 -   [Ethereum - Proof of work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
 -   [Blockchain - Hash Rate](https://www.blockchain.com/charts/hash-rate)
 -   [Etherscan - Hash Rate](https://etherscan.io/chart/hashrate)

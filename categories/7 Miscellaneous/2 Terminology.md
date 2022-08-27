@@ -39,5 +39,5 @@ A statement used to describe an investments value increasing drastically.
 ## Utility
 A term used to describe what a cryptocurrency can be used for.
 
-References:
+**References**
 -   [Learn Crypto - Glossary](https://learncrypto.com/glossary)
