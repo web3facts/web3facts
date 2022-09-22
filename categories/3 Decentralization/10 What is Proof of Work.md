@@ -20,8 +20,8 @@ with the desired property.
 The miners on the **Bitcoin** network generate roughly **200 Trillion hashes per second**,
 producing **1 new Block every 10 minutes**.
 
-The miners on the **Ethereum** network generate roughly **900 Trillion hashes per second**,
-producing **1 new Block every 13 seconds**.
+The miners on the **Ethereum** network generated roughly **900 Trillion hashes per second**,
+producing **1 new Block every 13 seconds**. Note that Ethereum now uses [Proof of Stake](#WhatIsProofOfStake).
 
 The large energy costs are due to enormous number of hashes required.
 
